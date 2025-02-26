@@ -6,4 +6,3 @@ Data Preprocessing: Handling missing values, normalization, and feature engineer
 Modeling: Predictive analysis for heating and cooling loads.
 Insights: Recommendations for improving building design and energy efficiency based on model outputs.
 
-changes if any
